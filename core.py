@@ -416,7 +416,7 @@ def buildWindow():
     return headerListBox,inputTree, outputTree,tBox
 
 window = Tk()
-window.title("Horizontal to Vertical Conversion Tool v1.2")
+window.title("Horizontal to Vertical Conversion Tool v2.0")
 window.geometry("1200x600")
 
 nullDrop = tk.IntVar()
